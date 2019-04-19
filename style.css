@@ -1,0 +1,58 @@
+#body {
+	color: Purple;
+	background-color: LimeGreen;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1024px;
+	min-width: 256px;
+	padding-top: 8px;
+	padding-bottom: 24px;
+	padding-left: 24px;
+	padding-right: 24px;
+	border: 2px solid Purple;
+	border-radius: 16px;
+}
+
+#LogoHomeLink {
+	border-radius: 20px;
+	width: 7.5%;
+	height: 7.5%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	font-family: 'Krub', sans-serif;
+	background-color: Purple;
+}
+
+nav ul {
+	list-style-type: none;
+	background-color: LimeGreen;
+	border: 4px solid Purple;
+	border-radius: 100px;
+	font-weight: bold;
+	padding: 5px;
+}
+
+nav ul li {
+	display: inline;
+	border-right: 2px solid Purple;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+nav	ul li:last-child {
+	border-right: none;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: Purple;
+}
+
+#coming_soon {
+	color: Black;
+	font-family: 'Dokdo', sans-serif;
+}

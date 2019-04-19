@@ -1,0 +1,5 @@
+Getting started
+
+The creative world of making, coding, electronics, and more, has various ways in, and multiple different areas to choose from.
+
+1st - Raspberry Pi. In my opinion, and I'm sure many people second me here, the Raspberry Pi microcomputers are the best of all kinds of microcontrollers, and computers, when it comes to learning, making, and having fun. 
