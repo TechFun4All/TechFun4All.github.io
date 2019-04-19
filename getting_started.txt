@@ -1,5 +1,21 @@
 Getting started
 
+<p>
 The creative world of making, coding, electronics, and more, has various ways in, and multiple different areas to choose from.
+</p>
 
-1st - Raspberry Pi. In my opinion, and I'm sure many people second me here, the Raspberry Pi microcomputers are the best of all kinds of microcontrollers, and computers, when it comes to learning, making, and having fun. 
+<p>
+1st - the Raspberry Pi. In my opinion, and I'm sure many people second me here, the Raspberry Pi microcomputers are the best of all kinds of microcontrollers, and computers, when it comes to learning, making, and having fun.
+</p>
+
+<p>
+As I mentioned, they are micro<strong>computers</strong>. This means they run their own operating system, and lots of software - computer programs. They also have typical computer hardware - this means physical devices e.g. screen, motherboard - like a RAM, ROM, WiFi connectivity, Bluetooth, USB ports, a motherboard, and more. In fact, what is so special about Raspbery Pis is that, at a first glance, they look like just a motherboard, with USB, headphone, HDMI - to connect to a screen, and power ports. This is becuase they are miniture computers. But, they can do so much more, as they have a two rows of GPIO - General Purpose Input Output - pins, which can act as switches to control electronic devices, such as LEDs, Buttons, and so much more. The reason I prefer Raspberry Pis over everything else is mainly just because they're so customisable, and they have so many possibilities for combining electronics, coding, and making.
+</p>
+
+<p>
+2nd - the BBC Micro:Bit. These mini gadgets are AWESOME! They are classed as micro<strong>controllers</strong>, and this means they don't run an operating system, or have the software and hardware needed for a microcomputer. Instead, you write specific code, which is <strong>complied</strong> - made so the microcontroller can understand it, and this runs whenever there is power in the device. Micro:Bits are really cool, as they have lots of in-built sensors, bluetooth, and radio communication - which is really fun to play around with. You can make loads of really fun devices with microbits, and also, they're a lot easier than Raspberry Pis in most cases, becuase you just write the code using a scratch-like tool online (block-based coding - very fun, easy to learn, and with potential for complex programs), and then you flash the code to the Micro:Bit, without needing monitors, keyboards, mice, operating systems, and more which you need for Raspberry Pis.
+</p>
+
+<p>
+3rd - Arduino. Another microcontroller, which has been around for decades now, Arduinos, which come in a large variety of models, are very good for controlling electronics, like the Raspberry Pi, but easier to set up and use. However, they have to be coded in a more complicated language than python, which most people use for the Raspberry Pi, and they have a more limited scope for projects than the Raspberry Pi - for example, you can't as easily create sounds, and use speakers, and connecting to WiFi with arduinos (and Micro:Bits) can be pretty tricky. I do not currently own an Arduino, but I have used them before, to create projects such as a colour sensing LED ring, and a flashing rainbow LED, and I really enjoyed working with them. However, they canbe tricky to start with if it's your first leap into programming.
+</p>
