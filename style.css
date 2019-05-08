@@ -36,6 +36,13 @@ nav ul {
 	padding: 5px;
 }
 
+
+@media all and (max-width:900px)
+{
+	nav ul {
+		font-size: 75%;
+	}
+}
 nav ul li {
 	display: inline;
 	border-right: 2px solid black;
