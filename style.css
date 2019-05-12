@@ -52,7 +52,7 @@ nav ul li a {
 	color: black;
 }
 
-@media all and (max-width:900px)
+@media all and (max-width:525px)
 {
 	nav ul {
 		#font-size: 7%;
