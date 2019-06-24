@@ -1,12 +1,11 @@
----
-permalink: /trill-pi
----
-
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trill-Pi | TechFun4All</title>
-		
+	<title>Home | TechFun4All</title>
+	<link href="https://fonts.googleapis.com/css?family=Dosis|KoHo|Krub|Mali" rel="stylesheet">
+
+	<!--<script src="views.js"></script>-->
+	
 	<meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -28,9 +27,8 @@ permalink: /trill-pi
   	<link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet">
   	<!-- Material Design Bootstrap -->
   	<link href="Bootstrap/css/mdb.min.css" rel="stylesheet">
-	<link type="text/css" rel="stylesheet" href="style.css"/>
-	
-	<link href="https://fonts.googleapis.com/css?family=Dosis|KoHo|Krub|Mali" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" 	href="style.css"/>
+
 </head>
 <body>
 	<nav class="nav justify-content-center">
@@ -45,20 +43,17 @@ permalink: /trill-pi
 			</ul>
 		</p>
 	</nav>
-	
 	<div id="body">
+	<h1>TechFun4All</h1>
+		<p>
+			I am 14 years old, and intestered in all things <a href="https://rpf.io">Raspberry Pi</a>, coding, electronics and making. I have a rare bone condition, called MHE - <a href="https://en.wikipedia.org/wiki/Hereditary_multiple_exostoses">Multiple Herediary Exostoses</a>, or HME, which means I get chronic pain and fatigue. I want to help others, especially young people, like me, to get into creatively using technology, to free their mental or physical boundaries from disability.
+		</p>
+		<p>
+			This is my website, where I blog about events, etc, document my projects, and help others get into tech! I've hand coded it from scratch, using Github Pages, and although it has taken a while, it's looking pretty good now, I think! I'm working on documenting some projects, and getting the blog working, so I'll update the site when it's ready, but please feel free to contact me in the meantime (see my <a href="contact.html">contact page</a>) :)
+		</p>
+	</div>
 
-	<h1>The Trill-Pi</h1>
-	<p>The Trill-Pi is one of my favourite projects. It is fairly simple electronics wise - it only uses a <a href="https://www.raspberrypi.org/products/sense-hat/">Sense Hat</a>, and a <a href="https://www.raspberrypi.org/products/raspberry-pi-zero-w/">Raspberry Pi Zero W</a>, as well as a power pack. The Raspberry Pi, with Sense Hat attached, is fixed to the front of the trilby hat (using good old excellent string!), and the power pack rests in the top of the hat.</p>
-	<p>
-		As for software, anything designed for the Sense Hat works great with the Trill-Pi. As it doesn't have a specific function, it means that it can be used for a huge variety of applications. Random sparkles! Rainbows! Displaying colourful messages! You can also use the Sense Hat's sensors, to create uses such as weather monitoring on the go, and I'll hopefully soon get round to making a program to take use of the accelerometer, gyrometer and magnetometer - meaning it can track your steps, direction and orientation while out for a walk. All while displaying great flickering colourful lights, of course!
-	</p>
-	<p>
-		Currently, the program I use for the Trill-Pi uses the joystick, to run functions such as random sparkles, colourful message displaying, a rotating exclamation mark (because - why not!), and a software sutdown function. However, I can't get the functions to stop once another takes over, and it ends up flickering with many different colours - not what it's meant to do. Hopefully I'll be able to fix it soon, and make that walk monitoring program!
-	</p>
-</div>
-	
-<footer>
+	<footer>
 	<br/>
 	<p>
 		TechFun4All 2019
@@ -78,6 +73,6 @@ permalink: /trill-pi
 		</a>
 	</p>
 </footer>
-		
+	
 </body>
 </html>
