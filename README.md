@@ -1,7 +1,5 @@
 # TechFun4All.github.io
 
-I am a young differently abled Raspberry Pi enthusiast!
+TechFun4All is a young-person led initiative to help people with disabilities free their boundaries with Digital Making; this is its website.
 
-I want to help other children and adults like me to free their boundraries with Tech!
-
-This is my website!
+The initiative is currently paused, but please do get in touch if you have any questions/thoughts/ideas about the website :)
